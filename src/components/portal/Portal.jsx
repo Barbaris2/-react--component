@@ -2,7 +2,6 @@ import { Component } from 'react';
 import ReactDOM from 'react-dom';
 
 class Portal extends Component {
-
   el = document.createElement('div');
 
   componentDidMount() {
