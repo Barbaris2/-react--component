@@ -3,8 +3,8 @@
 }
 
 .navigation {
-  background-color: #D43728;
-  box-shadow: 1px 1px 10px #777;
+  background-color: #4d28d4;
+  box-shadow: 1px 1px 10px #4d28d4;
 }
 
 .nav {
@@ -37,6 +37,6 @@
 
 .nav a:hover,
 .nav a.active {
-  background-color: rgba(0,0,0,.2);
-  border-color: #EBEBEB;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-color: rgb(250, 246, 2);
 }
